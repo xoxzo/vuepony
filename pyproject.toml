@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "vuepony"
+version = "0.1.0"
+description = "Basic django project integrated with vuejs"
+authors = ["kamal <kamal@xoxzo.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+django = "^3.1.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
