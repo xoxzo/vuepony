@@ -1,4 +1,6 @@
-Demo Django project with Vuejs integration.
+Demo Django project with Vuejs integration. This is as a complement to our
+[blog post](https://blog.xoxzo.com/en/2020/08/05/vue-with-django-getting-started/)
+on integrating Vue with Django.
 
 ## Quickstart
 
